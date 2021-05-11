@@ -8,9 +8,9 @@
                     <i class="tim-icons icon-wifi"></i>
                 </div>
                 <div class="description">
-                    <h3 class="info-title">{{ _('Marketing') }}</h3>
+                    <h3 class="info-title">{{ _('Department') }}</h3>
                     <p class="description">
-                        {{ _('We\'ve created the marketing campaign of the website. It was a very interesting collaboration.') }}
+                        {{ _('Department Registration.') }}
                     </p>
                 </div>
             </div>
@@ -19,9 +19,9 @@
                     <i class="tim-icons icon-triangle-right-17"></i>
                 </div>
                 <div class="description">
-                    <h3 class="info-title">{{ _('Fully Coded in HTML5') }}</h3>
+                    <h3 class="info-title">{{ _('Courses') }}</h3>
                     <p class="description">
-                        {{ _('We\'ve developed the website with HTML5 and CSS3. The client has access to the code using GitHub.') }}
+                        {{ _('Course Registration') }}
                     </p>
                 </div>
             </div>
@@ -30,9 +30,9 @@
                     <i class="tim-icons icon-trophy"></i>
                 </div>
                 <div class="description">
-                    <h3 class="info-title">{{ _('Built Audience') }}</h3>
+                    <h3 class="info-title">{{ _('Student') }}</h3>
                     <p class="description">
-                        {{ _('There is also a Fully Customizable CMS Admin Dashboard for this product.') }}
+                        {{ _('Student Registration.') }}
                     </p>
                 </div>
             </div>

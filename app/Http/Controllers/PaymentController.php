@@ -79,7 +79,7 @@ class PaymentController extends Controller
                 ]);
                 $data = $this->user->where('id',Auth::user()->id)->first();
                 $data->update([
-                    'status'  => $transStatus,
+                    'status'  => 1,
                     
                     
                 ]);

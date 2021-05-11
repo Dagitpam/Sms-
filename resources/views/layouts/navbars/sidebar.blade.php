@@ -62,7 +62,7 @@
                 </a>
             </li> --}}
             <li @if ($pageSlug ?? '' == 'course') class="active " @endif>
-                <a href="/student-course">
+                <a href="/my-course">
                     <i class="tim-icons icon-money-coins"></i>
                     <p>My Courses</p></p>
                 </a>
